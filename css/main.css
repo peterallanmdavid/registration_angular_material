@@ -1,0 +1,52 @@
+.main-content{
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  padding: 20px;
+  max-width: 600px;
+}
+md-card-avatar{
+  float:left;
+  margin-right: 20px;
+}
+md-card-avatar>img{
+  height:80px ;
+  width: 80px !important;
+}
+md-card-header-text{
+  float:left;
+  height: 80px;
+}
+
+md-card-header-text>span{
+  float:left;
+  width: 100%;
+}
+
+
+.main-content>md-card{
+  padding: 20px;
+}
+
+.md-layout-gt-sm-row>md-input-container{
+  margin-right: 10px;
+}
+.three-fields{
+  width: 30%;
+}
+body,html{
+  background: #ccc !important;
+
+}
+.md-raised{
+  float: right;
+}
+
+md-checkbox{
+  margin-top: 20px !important;
+    margin-left: 0 !important;
+}
+md-datepicker>button{
+  margin:0 !important;
+}
